@@ -38,7 +38,7 @@ app.listen(port, () => {
 });
 
 const statusMessages = ["Watching The Server", "Listening To Commands", "Playing Nova Network", "Helping Members"];
-const statusTypes = [ 'online"];
+const statusTypes = ["online"];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
 
